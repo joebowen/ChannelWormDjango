@@ -1,0 +1,9 @@
+site_name: ChannelWorm
+theme: readthedocs
+pages:
+  - [index.md, Index]
+  - [index.md, Introduction]
+  - [information-management.md, Information Management]
+  - [digitization.md, Digitization]
+  - [validation.md, Validation]
+  - [optimization.md, Optimization]
